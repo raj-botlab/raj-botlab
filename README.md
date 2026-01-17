@@ -1,4 +1,4 @@
-# EC&P Robotics Fundamentals – Robocon Preparation
+# Robotics Fundamentals
 
 This repository contains basic but important programs related to
 electronics, control, and programming used in mobile robotics.
