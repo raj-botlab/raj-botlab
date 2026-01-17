@@ -73,6 +73,15 @@ File: `differential_drive_basic.ino`
 
 ---
 
+### 7. Button-controlled differential drive robot with gear system
+- Manual control using push buttons
+- Differential drive motion (left/right motors)
+- PWM-based gear system for speed control
+- Demonstrates real-time motor control logic
+
+File: `button_controlled_differential_drive.ino`
+
+
 ## Key Concepts Demonstrated
 - Interrupts
 - Encoder feedback
